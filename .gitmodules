@@ -1,0 +1,3 @@
+[submodule "Study-Submodule"]
+	path = Study-Submodule
+	url = git@github.com:yakitama/Study-Submodule.git
